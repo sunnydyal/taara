@@ -272,10 +272,7 @@
   <li><a href="#">Home</a></li>
   <li><a href="#">Help</a></li>
   <li><a href="#">Contact Us</a></li>
-  
-  <li><%= new Date().toString()%></li>
-  <li><%= System.getProperty("user.name")%></li>
-</ul>
+  </ul>
 
 				</div><!--/.container-fluid-->
 			</div><!--/.navbar-inner-->

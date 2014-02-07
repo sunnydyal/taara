@@ -408,7 +408,7 @@
                                              <div class="popupv popover fade right in">
 											 <div class="arrow"></div>
                                               <h3 class="popover-title">Forgot Password</h3>
-											  <div class="popover-content">Heads up! This alert needs your attention, but it's not super important.</div>
+											  <div class="popover-content">If you forget your login or password, please enter e-mail you used on registration, We'll send a new password via e-mail.</div>
                                              </div>
                                              
                                             </i></span>

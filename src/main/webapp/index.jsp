@@ -339,7 +339,7 @@
                                              <div class="popupv popover fade right in">
 											 <div class="arrow"></div>
                                               <h3 class="popover-title">Log In</h3>
-											  <div class="popover-content">Heads up! This alert needs your attention, but it's not super important.</div>
+											  <div class="popover-content">Heads up! This alert needs your attention.</div>
                                              </div>
                                              
                                             </i></span>
